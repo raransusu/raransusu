@@ -18,11 +18,6 @@
 <a href="mailto:jys3049@khu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <!--
-[![Solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=azurewings)](https://solved.ac/azurewings)
--->
-
-
-<!--
 **azure-wings/azure-wings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -36,13 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-
-<!--
-**raransusu/raransusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
